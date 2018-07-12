@@ -1,0 +1,2 @@
+java -classpath .;C:\Jade\jade\lib\jade.jar;.C:\Jade\jade\lib\jadeTools.jar;.C:\Jade\jade\lib\iiop.jar;.C:\Jade\jade\lib\jadeTools.jar jade.Boot -container HUsr1:User.heavyUser %1 %2 %3 %4 %5 %6 %7 %8 %9 
+@pause
